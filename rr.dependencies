@@ -1,0 +1,18 @@
+[
+  {
+    "repository": "kshatriya-abhay/android_kernel_asus_msm8953",
+    "target_path": "kernel/asus/msm8953",
+    "branch": "kernel"
+  },
+  {
+    "repository": "kshatriya-abhay/android_vendor_asus_zenfone3",
+    "target_path": "vendor/asus",
+    "branch": "temp"
+  },
+  {
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "lineage-16.0"
+  }
+]
+
