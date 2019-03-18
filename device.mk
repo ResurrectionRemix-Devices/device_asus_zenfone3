@@ -506,11 +506,6 @@ PRODUCT_PACKAGES += \
     android.hardware.thermal@1.0-service \
     android.hardware.thermal@1.0-impl
 
-# /vendor
-PRODUCT_PACKAGES += \
-   toybox_msm8953 \
-   sgdisk_msm8953
-
 # Checking /vendor
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/scripts/vendor.sh:install/bin/vendor.sh
